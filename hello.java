@@ -9,5 +9,7 @@ public class hello {
         System.out.println("heimingxign");
         System.out.println("heimingxign");
         System.out.println("11111111111");
+         System.out.println("pull ");
+        
     }
 }
