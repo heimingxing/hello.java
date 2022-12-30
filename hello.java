@@ -6,5 +6,7 @@ public class hello {
         System.out.println("heimingxign");
         System.out.println("heimingxign");   System.out.println("heimingxign");
         System.out.println("heimingxign");
+        System.out.println("heimingxign");
+        System.out.println("heimingxign");
     }
 }
